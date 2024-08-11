@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruniv%2Fharuniv&count_bg=%23B0B1AF&title_bg=%23717EFF&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+<a href="https://github.com/Haruniv"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruniv&count_bg=%23CCCCCC&title_bg=%236076DA&icon=tencentqq.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
+
 Good day! I am a Oracle and MySQL DBA from South Korea.
 
 I am interested in Quantum Computing and Deep learning and Sharing Economy</br>I love reading, exercising and communicating!
