@@ -4,8 +4,7 @@
 
 Good day! I am a Oracle and MySQL DBA from South Korea.
 
-I am interested in Quantum Computing and Deep learning and Sharing Economy
-I love reading, exercising and communicating!
+I am interested in Quantum Computing and Deep learning and Sharing Economy</br>I love reading, exercising and communicating!
 
 If you want to contact me, please leave me a message!
 
