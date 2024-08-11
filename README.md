@@ -10,9 +10,9 @@ If you want to contact me, please leave me a message!
 
 ✨Experience
 
-1. Job - Oracle DBA Principal Consultant at Paymentus
+1. Job - Oracle, MySQL DBA Principal Consultant at Paymentus
 2. Languages - Korean, Japanese, English, Deutsch
-3. Cloud Stack - AWS, OCI, AZURE
+3. Cloud Management Experience - AWS, OCI, AZURE
 
 ✨Skills
 </br>
