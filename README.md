@@ -6,6 +6,8 @@
 
 I am interested in Quantum Computing and Deep learning and Sharing Economy</br>I love reading, exercising and communicating!
 
+I like simple over complicated. I think being concise and readable is also a skill, haha.
+
 If you want to contact me, please leave me a message!
 
 Blog : [Haru's Blog](https://haruniv.github.io/)
