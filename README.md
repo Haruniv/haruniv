@@ -8,6 +8,8 @@ I am interested in Quantum Computing and Deep learning and Sharing Economy</br>I
 
 If you want to contact me, please leave me a message!
 
+Blog : <a href="haruniv.github.io"> Haru's Blog </a>
+
 ✨Experience
 
 1. Job - Oracle, MySQL DBA Principal Consultant at Paymentus
