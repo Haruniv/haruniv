@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Haruniv"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruniv&count_bg=%23CCCCCC&title_bg=%236076DA&icon=tencentqq.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
 
-<span style="font-family: 'Consolas';">Good day! I am a Oracle and MySQL DBA from South Korea.</span>
+<span style="font-family: 'Consolas';">Good day! I am a Oracle, MySQL DBA from South Korea.</span>
 
 I am interested in Quantum Computing and Deep learning and Sharing Economy</br>I love reading, exercising and communicating!
 
@@ -14,7 +14,7 @@ Blog : [Haru's Blog](https://haruniv.github.io/)
 
 ✨Experience
 
-1. Job - Oracle, MySQL DBA Principal Consultant at Paymentus
+1. Job - Oracle, MySQL DBA, Paymentus
 2. Languages - Korean, Japanese, English, Deutsch
 3. Cloud Management Experience - AWS, OCI, AZURE
 
