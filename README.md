@@ -14,7 +14,7 @@ Blog : [Haru's Blog](https://haruniv.github.io/)
 
 ✨Experience
 
-1. Job - Oracle, MySQL DBA, Paymentus
+1. Job - Oracle, MySQL, SQL-Server(MS-SQL) DBA, Integrated PhD Program.
 2. Languages - Korean, Japanese, English, Deutsch
 3. Cloud Management Experience - AWS, OCI, AZURE
 
